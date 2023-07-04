@@ -1,1 +1,1 @@
-My second git task commit
+Fixed second git task readme
